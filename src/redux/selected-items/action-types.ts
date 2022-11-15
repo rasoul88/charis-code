@@ -1,0 +1,7 @@
+const selectedItemsActionTypes = {
+  ADD_TO_SELECTED_ITEMS: "ADD_TO_SELECTED_ITEMS",
+  REMOVE_FROM_SELECTED_ITEMS: "REMOVE_FROM_SELECTED_ITEMS",
+  CLEAR_SELECTED_ITEMS: "CLEAR_SELECTED_ITEMS",
+};
+
+export default selectedItemsActionTypes;
